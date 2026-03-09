@@ -1,0 +1,8 @@
+.env
+venv/
+logs/
+__pycache__/
+*.pyc
+last_notification.txt
+debug_*.png
+/.claude/settings.local.json
